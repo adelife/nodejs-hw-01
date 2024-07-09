@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": "e7ac7239-1f2e-4cf6-aa4c-f7e91b4f038f",
+        "name": "Domingo Heidenreich-Trantow",
+        "phone": "213-993-8657",
+        "email": "Deron14@hotmail.com",
+        "job": "Legacy Web Developer"
+    },
+    {
+        "id": "5f7db16b-ac69-4295-b54c-9fa2a9cd7df9",
+        "name": "Casey Rodriguez",
+        "phone": "738-938-6263",
+        "email": "Dallin.Carter@hotmail.com",
+        "job": "Future Creative Manager"
+    },
+    {
+        "id": "76e7e069-1c02-4837-822c-40f91a45859e",
+        "name": "Heather Wyman",
+        "phone": "1-824-477-1562 x5706",
+        "email": "Theron40@yahoo.com",
+        "job": "Human Factors Planner"
+    },
+    {
+        "id": "af4ff8a7-88da-4a66-9074-4952a96345f1",
+        "name": "Dawn Wiegand",
+        "phone": "(342) 795-5176",
+        "email": "Karianne.Huels48@gmail.com",
+        "job": "Human Applications Coordinator"
+    }
+]

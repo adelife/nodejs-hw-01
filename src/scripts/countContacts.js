@@ -9,10 +9,10 @@ export const countContacts = async () => {
         const dbContacts = JSON.parse(data);
         const dbContactsLengs = dbContacts.length;
 
-    console.log('length contacts in db.json: ', dbContactsLengs);
+    console.log('length contacts in db.json: ',  dbContactsLengs);
   } catch (error) {
     console.error(error);
   }
 };
 
-console.log(await countContacts());
+countContacts();
